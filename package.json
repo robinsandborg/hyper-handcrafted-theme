@@ -1,0 +1,22 @@
+{
+  "name": "hyper-handcrafted-theme",
+  "version": "0.1.0",
+  "main": "index.js",
+  "homepage": "https://hand.engineering/handcrafted/",
+  "description": "A carefully crafted dark theme for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinsandborg/hyper-handcrafted-theme"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper handcrafted",
+    "hyper theme",
+    "handcrafted",
+    "handcrafted-theme"
+  ],
+  "author": "Robin Sandborg <robin.sandborg@gmail.com>",
+  "license": "MIT"
+}
