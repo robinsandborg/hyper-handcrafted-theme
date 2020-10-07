@@ -10,9 +10,9 @@ All instructions can be found at [hand.engineering/handcrafted/](https://hand.en
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/robinsandborg/hyper-handcrafted-theme/graphs/contributors).
+This theme is maintained by [Robin Sandborg](https://github.com/robinsandborg/hyper-handcrafted-theme/graphs/contributors).
 
-Based on the Handcrafted theme by [![Lewis Flude](https://avatars2.githubusercontent.com/u/1160882?s=70)](https://github.com/lewisflude)
+Based on the Handcrafted theme by [Lewis Flude](https://github.com/lewisflude)
 
 ## License
 

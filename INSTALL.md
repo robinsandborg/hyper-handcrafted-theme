@@ -6,7 +6,7 @@
 
 #### Install using config file
 
-Add `hyper-dracula` to the plugins list in your `~/.hyper.js` config file.
+Add `hyper-handcrafted-theme` to the plugins list in your `~/.hyper.js` config file.
 
     plugins: [
     	'hyper-handcrafted-theme'
